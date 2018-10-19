@@ -1,0 +1,21 @@
+body {
+	border: 10px solid black;
+	Background-color: #00F00
+	}
+
+div
+	{
+	margin-top: 20px;
+	margin-bottom: 20px;
+	margin-right: 10px;
+	margin-left: 10px;
+	}
+img
+	{
+	Float: right;
+	}
+.header {
+	background-color: #F1F1F1;
+	text-align: center; 
+	padding: 20px;
+	}
